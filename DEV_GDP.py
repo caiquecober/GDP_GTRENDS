@@ -6,7 +6,6 @@ from datetime import datetime
 from datetime import date, timedelta
 import numpy as np
 import plotly.graph_objects as go
-import investpy as inv
 import numpy as np
 import re
 import plotly_express as px
